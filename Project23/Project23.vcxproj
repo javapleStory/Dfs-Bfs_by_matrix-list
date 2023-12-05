@@ -140,6 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="이현준_60201843.c" />
+    <ClCompile Include="인접리스트_그래프.c" />
+    <ClCompile Include="행렬이용그래프.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
